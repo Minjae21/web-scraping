@@ -1,3 +1,4 @@
+# This file is optional: helper to get the store id based on the location
 import requests
 from bs4 import BeautifulSoup
 
